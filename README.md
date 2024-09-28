@@ -39,7 +39,7 @@ Link de Wokwi del personaje navideño: [Personaje navideno](https://wokwi.com/pr
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
-Link del video de simulacion Wokwi: [Simulacion](https://drive.google.com/drive/u/0/folders/1yOkkG35kn6E-3_GlvXw0sNvcpIBu8hfE)
+Link del video de simulacion Wokwi: [Simulacion](https://drive.google.com/file/d/1oxV6L4E3n2EEnTTAU7z54yKDMVM2KGK0/view?usp=sharing)
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
