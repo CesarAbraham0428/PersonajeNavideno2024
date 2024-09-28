@@ -1,11 +1,11 @@
 # Personaje Navideño 2024
 
 ## Nombre del personaje
-Lock del extraño mundo de jack.
+Santa Claus
 ## Creador
 César Abraham López Aguilar GDS0643
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+El personaje al momento que se acerca una persona a una distancia de 50 cm comienza a mover 2 servos que simulan los brazos del personaje, es decir lo que se quiere transmitir es que esta "bailando" el Santa Claus lo que hace es bailar si una persona se acerca, aunado a esto tiene un sensor de temperatura el cual prende un led cuando la temperatura llega a 30 grados.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -13,6 +13,8 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
 |LEDs|<img width="100" src="https://github.com/user-attachments/assets/5c2ce052-c907-437f-ab4d-53518d900038" />|20|0.50|
+|Servotor|<img width="100" src="https://github.com/user-attachments/assets/393f6706-cd46-4711-b6ed-ffd2764a2296" />|1|55.00|
+|Sensor DHT22|<img width="100" src="https://github.com/user-attachments/assets/3f003abb-f59d-4627-8b89-cb55e0177634" />|1|90.00|
 |||
 
 ## Software a utilizar
@@ -28,10 +30,15 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
-Deben ser de 1 a 2 enlaces de wokwi
+
+Link de Wokwi de la simulacion de la casa inteligente: [Link Casa Inteligente](https://wokwi.com/projects/410241033744785409)
+
+Link de Wokwi del personaje navideño: [Personaje navideno](https://wokwi.com/projects/410240245776552961)
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+<img width="100" src="https://drive.google.com/file/d/1-UiWFgD_XhRHaK6aqp2cdC4YI9Exe2uo/view?usp=drive_link " />|20|0.50|
+
