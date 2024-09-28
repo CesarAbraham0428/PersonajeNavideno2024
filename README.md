@@ -27,7 +27,8 @@ El personaje al momento que se acerca una persona a una distancia de 50 cm comie
 |TinkerCAD|2.3.2|
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/personaje.jpg" />
 
 ## Enlaces de la simulación de wokwi
 
@@ -40,5 +41,10 @@ Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pu
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
-<img width="100" src="https://drive.google.com/file/d/1-UiWFgD_XhRHaK6aqp2cdC4YI9Exe2uo/view?usp=drive_link " />|20|0.50|
 
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223653.png" />
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223723.png" />
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223800.png" />
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223823.png" />
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223909.png" />
+<img width="800" src="https://github.com/CesarAbraham0428/PersonajeNavideno2024/blob/main/assets/Captura%20de%20pantalla%202024-09-27%20223556.png" />
